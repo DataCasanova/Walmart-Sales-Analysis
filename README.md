@@ -6,6 +6,13 @@ As a newly hired data analyst at Walmart, my primary task was to analyze our sal
 ## Introduction
 In my role as a data analyst, I utilized data matrices to organize and analyze sales data, which is crucial for making informed decisions. This report demonstrates how structured data analysis can help Walmart understand its market performance, optimize strategies, and enhance profitability.
 
+## Data Overview
+The dataset includes the following key variables:
+
+- Order Details: Row ID, Order ID, Order Date, Ship Date, Ship Mode
+- Customer Information: Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Retail Sales People
+- Product Information: Product ID, Category, Sub-Category, Product Name
+- Sales Metrics: Returned, Sales, Quantity, Discount, Profit
 
 
 
