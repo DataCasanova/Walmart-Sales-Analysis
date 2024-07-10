@@ -47,23 +47,31 @@ Tools Used
 
 ## 2. Customer Segmentation
 
+ Corporate                           |       Segment 
+:-----------------------------------:|:------------------------:
+                                        High Sales: Erica Bern ($34.62)
+                                        Regions: West
+                                        Key Products: Binders, Storage
+                                        Consumer Segment
+                                        High Sales: Jennifer Ferguson ($134.52)
+                                        Regions: East
+                                        Key Products: Labels, Binders, Phones
 
 
-
-Corporate Segment
-High Sales: Erica Bern ($34.62)
-Regions: West
-Key Products: Binders, Storage
-Consumer Segment
-High Sales: Jennifer Ferguson ($134.52)
-Regions: East
-Key Products: Labels, Binders, Phones
 3. Product Category Analysis
-Office Supplies: Highest volume with products like binders and fasteners showing consistent sales across regions.
-Technology: Includes niche products like phone cases and headsets, moderate sales.
-Furniture: High-ticket items with significant contributions to sales but varied profit margins.
+
+ Product                             |      Category Analysis
+:-----------------------------------:|:------------------------:
+                                        Office Supplies: Highest volume with products like binders and fasteners showing consistent sales across regions.
+                                        Technology: Includes niche products like phone cases and headsets, moderate sales.
+                                        Furniture: High-ticket items with significant contributions to sales but varied profit margins.
+
 4. Return Analysis
-Products with high return rates include binders, highlighting potential quality issues or customer dissatisfaction.
+
+ Return                              |       Analysis
+:-----------------------------------:|:------------------------:
+                                        Products with high return rates include binders, highlighting potential quality issues or customer dissatisfaction.
+
 5. Shipping Mode Impact
 Standard Class: Predominantly used shipping mode, suggesting cost efficiency.
 Second Class: Limited use, potentially for urgent deliveries or high-value items.
