@@ -14,6 +14,12 @@ The dataset includes the following key variables:
 - Product Information: Product ID, Category, Sub-Category, Product Name
 - Sales Metrics: Returned, Sales, Quantity, Discount, Profit
 
+## Tools and Methodology
+Tools Used
+- Microsoft Excel: For data organization, analysis, and visualization.
+- PPower BI: To summarize data and create data matrices for deeper analysis.
+- Dax: To calculate totals, averages, and other key metrics.
+
 
 
 **Power BI Concepts applied:**
