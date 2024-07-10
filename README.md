@@ -1,10 +1,13 @@
-# Walmart-Sales-Analysis# Global Super Store: Sales Analysis for 2016
+# Optimizing Sales Performance: A Comprehensive Data Analysis for Walmart
 
-![](data.jpeg)
+## Executive Summary
+As a newly hired data analyst at Walmart, my primary task was to analyze our sales data to provide actionable insights that can drive business growth and improve operational efficiency. This report presents a detailed analysis of the sales data, focusing on the importance of data matrices in understanding our business performance. The analysis covers various dimensions such as sales, customer segmentation, shipping details, and product categories.
 
 ## Introduction
+In my role as a data analyst, I utilized data matrices to organize and analyze sales data, which is crucial for making informed decisions. This report demonstrates how structured data analysis can help Walmart understand its market performance, optimize strategies, and enhance profitability.
 
-I came across the dataset online and admired how rich the data is as I have been trying to get my hands dirty with a very rich dataset to practice my skills of data cleaning, analysis and visualization.
+
+
 
 **Power BI Concepts applied:**
 - DAX Concepts:
