@@ -17,27 +17,27 @@ The dataset includes the following key variables:
 ## Tools and Methodology
 Tools Used
 - Microsoft Excel: For data organization, analysis, and visualization.
-- PPower BI: To summarize data and create data matrices for deeper analysis.
+- Power BI: To summarize data and create data matrices for deeper analysis.
 - Dax: To calculate totals, averages, and other key metrics.
 
 ## Key Findings
 ## 1. Sales Performance by Region
 
- Sales Performance by Region         |           Central Region
+ Central                             |            Region
 :-----------------------------------:|:------------------------:
                                         Top Performing Product: Xerox 1915 (Office Supplies - Paper)
                                         Sales: $209.70
                                         Profit: $100.66
                                         Retail Sales Person: Kelly Williams              
 
- Sales Performance by Region         |           East Region
+  East                               |           Region
 :-----------------------------------:|:------------------------:
                                         Top Performing Product: Bush Westfield Collection Bookcases (Furniture - Bookcases)
                                         Sales: $323.14
                                         Profit: $12.12
                                         Retail Sales Person: Chuck Magee              
 
- Sales Performance by Region         |           West Region
+  West                               |           Region
 :-----------------------------------:|:------------------------:
                                         Top Performing Product: Adjustable Depth Letter/Legal Cart (Office Supplies - Storage)
                                         Sales: $725.84
