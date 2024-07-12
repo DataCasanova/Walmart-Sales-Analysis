@@ -25,52 +25,60 @@ Tools Used
 
  Central                             |            Region
 :-----------------------------------:|:------------------------:
-                                        Top Performing Product: Xerox 1915 (Office Supplies - Paper)
-                                        Sales: $209.70
-                                        Profit: $100.66
+                                        Top Performing Product: GBC DocuBind P400 Electric Binding System
+                                        Sales: $5443.96
+                                        Profit: $2504.22
                                         Retail Sales Person: Kelly Williams              
 
   East                               |           Region
 :-----------------------------------:|:------------------------:
-                                        Top Performing Product: Bush Westfield Collection Bookcases (Furniture - Bookcases)
-                                        Sales: $323.14
-                                        Profit: $12.12
+                                        Top Performing Product: Canon imageCLASS 2200 Advanced Copier
+                                        Sales: $11199.96
+                                        Profit: $3919.98
                                         Retail Sales Person: Chuck Magee              
 
   West                               |           Region
 :-----------------------------------:|:------------------------:
-                                        Top Performing Product: Adjustable Depth Letter/Legal Cart (Office Supplies - Storage)
-                                        Sales: $725.84
-                                        Profit: $210.49
+                                        Top Performing Product: Canon imageCLASS 2200 Advanced Copier
+                                        Sales: $13999.96
+                                        Profit: $6719.98
                                         Retail Sales Person: Anna Andreadi    
 
-
+  South                              |           Region
+:-----------------------------------:|:------------------------:
+                                        Top Performing Product: Cubify CubeX 3D Printer Triple Head Print
+                                        Sales: $7999.98
+                                        Profit: $3839.99
+                                        Retail Sales Person: Cassandra Brandow   
+                                        
 ## 2. Customer Segmentation
 
- Corporate                           |       Segment 
+ Segementation                       |       Segment 
 :-----------------------------------:|:------------------------:
-                                        High Sales: Erica Bern ($34.62)
-                                        Regions: West
-                                        Key Products: Binders, Storage
+                                        Corporate Segment
+                                        High Sales: Grant Thornton ($8167.42)
+                                        Regions: South
+                                        Key Products: Cubify CubeX 3D Printer Triple Head Print
                                         Consumer Segment
-                                        High Sales: Jennifer Ferguson ($134.52)
-                                        Regions: East
-                                        Key Products: Labels, Binders, Phones
+                                        High Sales: Raymond Buch ($14,203.28)
+                                        Regions: West
+                                        Key Products: Canon imageCLASS 2200 Advanced Copier
 
 
 3. Product Category Analysis
 
  Product                             |      Category Analysis
 :-----------------------------------:|:------------------------:
-                                        Office Supplies: Highest volume with products like binders and fasteners showing consistent sales across regions.
-                                        Technology: Includes niche products like phone cases and headsets, moderate sales.
-                                        Furniture: High-ticket items with significant contributions to sales but varied profit margins.
+                                        Technology: Highest volume with products like Phone,copiers,Accesories,machine and fasteners showing consistent sales across regions.
+                                        Office Supplies: Includes niche products like Blender Storage, Appliance e.t.c.
+                                        Furniture: High-ticket items with significant contributions to sales but varied profit margins e.g chair,table,bookcases e.t.c
 
 4. Return Analysis
 
  Return                              |       Analysis
 :-----------------------------------:|:------------------------:
-                                        Products with high return rates include binders, highlighting potential quality issues or customer dissatisfaction.
+                                        Products with high return rates include Copiers,Accessories,Phone highlighting Product with low return having potential quality issues or customer 
+                                        dissatisfaction e.g fasteners,table,machine and bookcases.
 
 ## Conclusion
 Key Findings
