@@ -56,9 +56,8 @@ Quantity Dashboard                     |     ROI Analysis
 :-------------------------------------:|:-----------------------:
  ![](Capture24.JPG)                    |   ![](Capture21.JPG)                                         
 
+<h1><br/><a href="https://app.powerbi.com/view?r=eyJrIjoiZGRhMWZiZTgtY2FiYy00Y2UzLTlkNDItMjRiZDMyZmEzM2NjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Visualization of the Walmart store Analysis here is a clickable Link to my Power Bi Dashboard. </a>
 
-DDashboard Visualization of the Walmart store Analysis </b> <a href="https://app.powerbi.com/view?r=eyJrIjoiZGRhMWZiZTgtY2FiYy00Y2UzLTlkNDItMjRiZDMyZmEzM2NjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">here is a Link to my Power Bi Dashboard.
-https://app.powerbi.com/view?r=eyJrIjoiZGRhMWZiZTgtY2FiYy00Y2UzLTlkNDItMjRiZDMyZmEzM2NjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## 1. Sales Performance by Region
 
