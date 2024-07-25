@@ -30,6 +30,20 @@ Tools Used
 - Power BI: To summarize data and create data matrices for deeper analysis.
 - Dax: To calculate totals, averages, and other key metrics.
 
+
+## Data Transformation
+
+Data cleaning was performed per table.
+The table appeared to be clean.
+The quality of each column is 100% with no error or nulls.
+Below is a preview of the Clean tables and modelling:
+
+Data Cleaning            |           Data Modelling
+:--------------------------:|:------------------------:
+![](Cleaning.JPG)          |         ![](Modelling45.JPG)
+
+
+
 ## Key Findings
 
 Quantity Dashboard                     |     ROI Analysis
