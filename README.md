@@ -1,5 +1,9 @@
 # Optimizing Sales Performance: A Comprehensive Data Analysis for Walmart
 
+Walmart  Store                             |          Analysis  
+:-----------------------------------------:|:------------------------:
+![](istockphoto-1205217071-612x612.jpg)    | 
+
 ## Executive Summary
 As a newly hired data analyst at Walmart, my primary task was to analyze our sales data to provide actionable insights that can drive business growth and improve operational efficiency. This report presents a detailed analysis of the sales data, focusing on the importance of data matrices in understanding our business performance. The analysis covers various dimensions such as sales, customer segmentation, shipping details, and product categories.
 
@@ -7,6 +11,12 @@ As a newly hired data analyst at Walmart, my primary task was to analyze our sal
 In my role as a data analyst, I utilized data matrices to organize and analyze sales data, which is crucial for making informed decisions. This report demonstrates how structured data analysis can help Walmart understand its market performance, optimize strategies, and enhance profitability.
 
 ## Data Overview
+
+Transaction data                       |          Calendar 
+:-------------------------------------:|:------------------------:
+![](walmart45.JPG)                     | ![](walmart_48.JPG)   
+
+
 The dataset includes the following key variables:
 
 - Order Details: Row ID, Order ID, Order Date, Ship Date, Ship Mode
@@ -21,6 +31,21 @@ Tools Used
 - Dax: To calculate totals, averages, and other key metrics.
 
 ## Key Findings
+
+Quantity Dashboard                     |     ROI Analysis
+:-------------------------------------:|:------------------------:
+![](Capture22.JPG)                     |    ![](Capture23.JPG)   
+
+
+
+ Product Analysis                     |  Customer Segementation   
+:-------------------------------------:|:-----------------------:
+ ![](Capture24.JPG)                    |   ![](Capture21.JPG)                                         
+
+
+
+
+
 ## 1. Sales Performance by Region
 
  Central                             |            Region
@@ -28,7 +53,7 @@ Tools Used
                                         Top Performing Product: GBC DocuBind P400 Electric Binding System
                                         Sales: $5443.96
                                         Profit: $2504.22
-                                        Retail Sales Person: Kelly Williams              
+                                        Retail Sales Person: Kelly Williams                                           
 
   East                               |           Region
 :-----------------------------------:|:------------------------:
@@ -43,6 +68,7 @@ Tools Used
                                         Sales: $13999.96
                                         Profit: $6719.98
                                         Retail Sales Person: Anna Andreadi    
+
 
   South                              |           Region
 :-----------------------------------:|:------------------------:
@@ -63,7 +89,6 @@ Tools Used
                                         High Sales: Raymond Buch ($14,203.28)
                                         Regions: West
                                         Key Products: Canon imageCLASS 2200 Advanced Copier
-
 
 3. Product Category Analysis
 
@@ -95,3 +120,7 @@ The use of data matrices in this analysis was crucial. By organizing data into s
 
 By leveraging Excel, pivot tables, and relevant formulas, I was able to provide Walmart with comprehensive insights into sales performance, customer segmentation, and regional trends. This structured approach ensures data-driven decision-making, leading to improved business strategies and growth. As a data analyst, my role is to continue refining these analyses, helping Walmart enhance its market presence and profitability.
 
+
+Thank                                  | You
+:-------------------------------------:|:------------------------:
+![](getty_469566889_105923.jpg)        |   
