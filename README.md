@@ -56,7 +56,16 @@ Quantity Dashboard                     |     ROI Analysis
 :-------------------------------------:|:-----------------------:
  ![](Capture24.JPG)                    |   ![](Capture21.JPG)                                         
 
-<h2><br/><a href="https://app.powerbi.com/view?r=eyJrIjoiZGRhMWZiZTgtY2FiYy00Y2UzLTlkNDItMjRiZDMyZmEzM2NjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Visualization of the Walmart store Analysis here is a clickable Link to my Power Bi Dashboard. </a>
+<h3><br/><a href="https://app.powerbi.com/view?r=eyJrIjoiZGRhMWZiZTgtY2FiYy00Y2UzLTlkNDItMjRiZDMyZmEzM2NjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Visualization of the Walmart store Analysis here is a clickable Link to my Power Bi Dashboard. </a>
+
+<div>
+    <a href="https://www.loom.com/share/f78fed83c23e461c9933f7aa3d716209">
+      <p>Microsoft Power BI - Report Visualization - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/f78fed83c23e461c9933f7aa3d716209">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f78fed83c23e461c9933f7aa3d716209-566637337b8ada9d-full-play.gif">
+    </a>
+  </div>
 
 
 ## 1. Sales Performance by Region
